@@ -1,0 +1,380 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#pricing  {
+   background-color: #c2c2d6;
+  }
+  /* #title {
+   /* background-color: blueviolet; */
+   /* background-image: url("Images/ghost\ runner.jfif"); */
+    
+  
+/* .navbar-brand{
+    display: inline-block;
+} */
+  #image-title{
+      text-align: center;
+  }
+  #main-image{
+      width: 18%;
+      border: solid 1px white;
+      border-radius: 50%;
+  }
+  #pricing-p{
+      color: black;
+  }
+  h3{
+      color: black;
+  }
+  h2{
+      color: black;
+  }
+p{
+    color: black;
+}
+h4{
+    color:aliceblue ;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+  #pricing{
+    padding: 100px;
+    text-align: center;
+    color: black;
+}
+
+.controller{
+    /* position:static; */
+    width: 50%;
+    /* border: solid 6px yellow; */
+    /* border-radius: 10%; */
+    /* border: solid 4px darkblue; */
+    padding-left:1% 2% 2% ;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+h1{
+    font-size: 40 rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color:aliceblue;
+    text-align: center;
+    padding-top: 3rem ;
+    padding-bottom: 1rem;
+  
+}
+
+#chat{
+    background-color:aliceblue;
+    padding: 1% 15% 6%;
+}
+
+.Notes{
+    display:inline-block;
+    color: aliceblue;
+    border: solid 4px yellow;
+    margin: auto;
+}
+/* .study{
+    border: solid 4px darkblue;
+    border-radius: 50%;
+    margin: 2%;
+} */
+
+#study-zone{
+    background-color: #c2c2d6;
+    padding: 1% 15% 4%  ;
+    text-align: center;
+}
+#study-row{
+    margin-top: 2%;
+}
+/* #study1{
+   text-align: center;
+   margin: 4%;
+}
+#study2{
+    text-align: center;
+    margin: 4%;
+ }
+ #study3{
+    text-align: center;
+    margin: 4%;
+ } */
+.study-1{
+   width: 35%;
+   margin: 2%;
+}
+.study-2{
+  width: 35%;
+  margin: 2%;
+}
+.study-3{
+  width: 35%;
+  margin: 2%;
+}
+
+
+#pricing{
+    text-align: center;
+    padding:1% 15% 4% ;
+    color: white;
+}
+
+#chill{
+    color: black;
+    padding: 1% 15% 4%;
+    text-align: center;
+}
+
+#main-font{
+    text-align: center;
+}
+
+/* music */
+#music-h1{
+    font-size:3.5rem ;
+    color: black;
+
+}
+
+
+  #music-p{
+      color: black;
+      text-shadow:blue;
+      margin: 1%;
+  }
+
+  #music-image{
+      border: solid 2px darkblue;
+      border-radius: 5%;
+      margin: 3%;
+  }
+
+/* footer  */
+#footer {
+   background-color: #c2c2d6;
+    text-align: center;
+    padding: 3% 15% 4% ;
+    color:black;
+    text-align: center;
+    margin: 2px;
+  }
+#footer-h4{
+    padding-top: 3%;
+    color: black;
+}
+
+/* services */
+#services{
+    background-image: url("Images/Untitled\ design\ \(2\).png");
+    padding:6% 15% 4% ;
+    text-align: center;
+    height: 140%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+#services-text{
+    color: azure;
+}
+
+/* memes */
+#memes{
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.memes-pic{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+.card{
+    border: solid 4px purple;
+}
+/* ********************** */
+/* chat area */
+#chat{
+    background-image: url("Images/Untitled\ design\ \(2\).png");
+    /* height: 140%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  */
+    /* opacity: 80%; */
+}
+#chat-text{
+    color: azure;
+}
+#chat-h1{
+    color: white;
+    /* background-image: url("Images/trending.jpg"); */
+    font-size: 2rem;
+    padding: 1%;
+    margin-bottom: 3%;
+    /* padding-le*/
+}
+#halo{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+}
+#fifa{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+}
+#zelda{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+}
+#skyrim{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+}
+#mine{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+    margin-bottom: 7%;
+}
+#apex{
+    width: 60%;
+    margin-top: 7%;
+    border: solid 2px black;
+}
+
+#chat{
+    text-align: center;
+}
+ #family-1{
+  width: 35%;
+}
+#friends-1{
+  width: 37%;
+}
+#business-1{
+    width: 39%;
+} 
+#chat-part-1{
+    border: solid 2px gray;
+    margin: 3%;
+    border-radius: 50%;
+    background-color:#c2c2d6;
+}
+#chat-part-2{
+    border: solid 2px gray;
+    margin: 3%;
+    border-radius: 50%;
+    background-color: #c2c2d6;
+}
+#chat-part-3{
+    border: solid 2px gray;
+    margin: 3%;
+    border-radius: 50%;
+    background-color: #c2c2d6;
+}
+/* ************** */
+
+/* events-section */
+#event-1{
+    /* width: 50%; */
+    padding: 2% 15% 7%;
+}
+#events{
+    background-image: url("Images/Untitled\ design\ \(2\).png");
+    height: 140%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+#events-title{
+    padding-top: 2% ;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+
+/* navbar-section */
+/* .navbar{
+    padding: 0 0 4.5rem;
+} */
+.navbar-brand{
+    font-size: 4px;
+}
+/* .container-fluid{
+    padding: 1% 10% 6%;
+} */
+#top-1{
+    padding: 3% 15% 9% 15%;
+}
+#top{
+    background-color: #c2c2d6;
+}
+#title{
+    background-color: #c2c2d6;
+    /* padding: 2%; */
+}
+
+/* study-section */
+/* #study{
+    margin: 1%;
+} */
+#study-title{
+    padding-bottom: 2rem;
+    font-size: 3rem;
+    padding-top: 1rem;
+    color: black;
+}
+
+
+
+/* temp  */
+#temp{
+    background-image: url("Images/Untitled\ design\ \(2\).png");
+    text-align: center;
+}
+
+
+
+/* category section */
+#category {
+    background-color: #c2c2d6;
+    text-align: center;
+    /* padding: 1% 15% 4% ; */
+    color: white;
+    font-size: 2rem;
+    
+  }
+#cat-box1{
+  border: solid 2px black;
+  border-radius: 10%;
+  margin: 1%;
+  width: 33%;
+}
+
+#cat-box2{
+    border: solid 2px black;
+    border-radius: 10%;
+    margin: 1%;
+  }
+
+
+  /* how to get better section */
+  #bu1{
+      margin: 2%;
+  }
+  #bu2{
+    margin: 2%;
+}
+#bu3{
+    margin: 2%;
+}
